@@ -1,5 +1,5 @@
 
-Trigger-Phrase-Replacer-for-Chrome
+Chrome-Dynamic-TXT-Replacer-4FunAndSafety
 =============
 
 Functionality
